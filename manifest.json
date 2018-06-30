@@ -1,0 +1,7 @@
+{
+  "name": "Fast Currency Converter",
+  "short_name": "FCV",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
