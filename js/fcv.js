@@ -1,4 +1,4 @@
-const API_BASE = "http://free.currencyconverterapi.com/api/v5/";
+const API_BASE = "https://free.currencyconverterapi.com/api/v5/";
 
 /**
  * Install the service worker
